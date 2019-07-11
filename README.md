@@ -14,6 +14,6 @@
 ## for javacode folder
 1) go to src folder
 2) javac javacode/algorithm/Fibo.java 
-3) javac javacode/algorithm/Fibo.java 
+3) java javacode.algorithm.Fibo 
 
 ## for koltin folder
